@@ -1,0 +1,25 @@
+# Dependências
+/node_modules
+/.pnpm
+/yarn.lock
+
+# Build
+/.next/
+/out/
+
+# Arquivos de Sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de Ambiente (MUITO IMPORTANTE)
+# Contém chaves de API, senhas de banco, etc.
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
