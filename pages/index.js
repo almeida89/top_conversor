@@ -1,4 +1,4 @@
-import Converter from '../components/Converter';
+import Converter from '../components/converter';
 import Head from 'next/head';
 
 export default function HomePage() {
