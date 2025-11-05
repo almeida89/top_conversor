@@ -47,7 +47,7 @@ Siga os passos abaixo para rodar o projeto em sua máquina local.
     ```
 
 2. **Navegue até a pasta do projeto:**
-    ````bash
+    ```bash
     cd top_conversor
     ```
 
